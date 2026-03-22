@@ -135,7 +135,7 @@ project-root/
 ## 📖 联系交流-799元购买成品软件、9.9元试用、白票勿扰
 
 > 可联系交流wx：
-![UI 界面预览](Contact_wx.png)
+![介绍图](https://gitee.com/yuanma573/ip-human-agent/raw/master/Contact_wx8.png)
 
 ---
 ## ⚠️ 已知限制
